@@ -114,8 +114,9 @@ Screenshots
 
 
 
-![App Screenshot](image/screenshot.png)
+![App Screenshot](screenshot.png)
 
 License
 
 This project is open-source for learning and portfolio use
+
